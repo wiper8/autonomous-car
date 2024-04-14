@@ -1,0 +1,1 @@
+ajuster la fonction de récompense et pt même la baser sur la distance minimale restante à parcourir vers la finish line.
